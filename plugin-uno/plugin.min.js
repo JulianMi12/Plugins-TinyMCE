@@ -1,0 +1,1 @@
+!function(){"use strict";tinymce.PluginManager.add("plugin-uno",function(n,t){n.ui.registry.addButton("plugin-uno",{text:"plugin-uno button",onAction:function(){n.setContent("<p>content added from plugin-uno</p>")}})})}();
